@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+backend-django/frontend-react/
+git add .gitignore
+git commit -m "Atualiza .gitignore para ignorar frontend-react dentro do backend"
+git push origin main
